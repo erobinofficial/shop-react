@@ -12,10 +12,7 @@ const Footer = () => {
             Contact
           </a>
           <a href="/jobs" class="link link-hover">
-            Jobs
-          </a>
-          <a href="/press" class="link link-hover">
-            Press kit
+            All Products
           </a>
         </div>
         <div>
@@ -56,7 +53,7 @@ const Footer = () => {
           </div>
         </div>
         <div>
-          <p>Copyright © 2023 - All right reserved by ACME Industries Ltd</p>
+          <p>Copyright © 2023 - All right reserved by Robin Inc</p>
         </div>
       </footer>
     </div>
