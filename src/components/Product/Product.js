@@ -20,7 +20,7 @@ const Product = (props) => {
             <p>{price}</p>
           </div>
             <div>
-              <button className="btn btn-primary">Buy</button>
+              <button className="btn btn-primary">Buy Now</button>
             </div>
           </div>
         </div>
