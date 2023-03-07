@@ -18,6 +18,7 @@ const Products = () => {
     );
   }
   return (
+    
     <div className="grid grid-cols-1 gap-4 mt-6 justify-items-center sm:grid-cols-4">
       {products.map((product) => (
         <Product product={product} key={product._id}></Product>

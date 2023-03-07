@@ -39,7 +39,7 @@ const Header = () => {
       </div>
       <div className="navbar-center">
         <a href="/home" className="btn btn-ghost normal-case text-xl">
-          Razu Shopping
+          Razu Shoppings
         </a>
       </div>
       <div className="navbar-end">
